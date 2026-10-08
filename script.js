@@ -1,6 +1,6 @@
 const URL = "https://gkuhslpqgralisysmjeg.supabase.co";
 
-const KEY =sb_publishable_CwjgXztgtIT8LuoGxVCVOQ_wgjbLWKk"";
+const KEY = "sb_publishable_CwjgXztgtIT8LuoGxVCVOQ_wgjbLWKk";
 
 
 // SALVAR PRODUTO
